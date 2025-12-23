@@ -1,4 +1,4 @@
-markdown
+
 # Alpha-Mechanism: The Self-Evolving Hedge Fund 🧠📈
 
 **Alpha-Mechanism** is an autonomous quantitative research engine that converts academic papers into executable trading strategies using Multimodal AI (Gemini 1.5 Pro). It features a "Self-Evolving" architecture where Reinforcement Learning (RL) agents tune parameters in real-time and Multi-Armed Bandits ensure fair capital allocation.
